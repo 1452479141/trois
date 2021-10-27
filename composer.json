@@ -1,0 +1,22 @@
+{
+    "name": "1452479141/trois",
+    "description": "trois && deux 23",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "1452479141",
+            "email": "1452479141@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php":">=5.6"
+    },
+    "autoload":{
+        "psr-4":{
+            "Trois\\Library\\":"src/Trois/Library"
+        }
+    }
+
+}
